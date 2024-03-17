@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathwikvarmaa
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning webprogramming and database managment 
-- 💞️ I’m looking to collaborate on creating projects on frontend
+- 👀 I was working currently on fullstack development
+- 🌱 My key skills are webprogramming and database managment 
+- 💞️ Looking for clients.
 
 <!---
 sathwikvarmaa/sathwikvarmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
