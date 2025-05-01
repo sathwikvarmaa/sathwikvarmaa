@@ -6,10 +6,12 @@ Welcome to my GitHub! I'm an engineering student with a deep passion for **natio
 
 To contribute to India's technological backbone by working with premier institutions like:
 
-- 🔬 **BARC** – advancing India's nuclear and scientific research
-- 🚀 **DRDO** – innovating in defense R&D for national security
-- 🛰️ **ISRO** – enabling space excellence for the nation
-- 🕵️ **IB** – securing internal intelligence with tech support
+- 🔬 **BARC** – securing nuclear research and digital systems through advanced cyber defense
+- 🚀 **DRDO** – developing cyber warfare and cyber defense tools to protect strategic assets
+- 🛰️ **ISRO** – ensuring the cybersecurity of satellite communications and space infrastructure
+- 🕵️ **IB** – strengthening internal security with cyber intelligence and digital surveillance systems
+
+> I aim to work in **cybersecurity domains** of these organizations to **defend and develop India** using cutting-edge technology. 🇮🇳
 
 Currently preparing for the **GATE** exam, I am committed to joining these forces and contributing to India's development and security.
 
