@@ -11,7 +11,7 @@ To contribute to India's technological backbone by working with premier institut
 - 🛰️ **ISRO** – ensuring the cybersecurity of satellite communications and space infrastructure
 - 🕵️ **IB** – strengthening internal security with cyber intelligence and digital surveillance systems
 
-> I aim to work in **cybersecurity domains** of these organizations to **defend and develop India** using cutting-edge technology. 🇮🇳
+ I aim to work in **cybersecurity domains** of these organizations to **defend and develop India** using cutting-edge technology. 🇮🇳
 
 Currently preparing for the **GATE** exam, I am committed to joining these forces and contributing to India's development and security.
 
