@@ -13,7 +13,7 @@ To contribute to India's technological backbone by working with premier institut
 
  I aim to work in **cybersecurity domains** of these organizations to **defend and develop India** using cutting-edge technology. 🇮🇳
 
-Currently preparing for the **GATE** exam, I am committed to joining these forces and contributing to India's development and security.
+🚨 Currently preparing for the GATE exam with full dedication 🇮🇳 — a key milestone toward my dream of serving the nation through technology. My preparation is focused on cybersecurity, computer networks, algorithms, and system design.
 
 ## 🔐 My Project for the Nation
 
