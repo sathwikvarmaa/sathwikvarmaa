@@ -1,4 +1,4 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaw.com/sathwikbuddhe.png)](https://tryhackme.com/p/sathwikbuddhe)
+https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png
 
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
 
