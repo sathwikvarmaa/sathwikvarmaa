@@ -1,5 +1,3 @@
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4693732.png)
-
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
 
 Welcome to my GitHub! I'm an engineering student with a deep passion for **national service** through **technology and innovation**.
