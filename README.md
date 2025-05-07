@@ -1,66 +1,56 @@
-<a href="https://tryhackme.com/p/sathwikbuddhe">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="TryHackMe" width="300"/>
-</a>
-<br>
-<a href="https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design">
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="300"/>
-</a>
-<br>
+# 🇮🇳 Jai Hind! I'm Sathwik – Techie on a Mission
 
-
-
-# 🇮🇳 Jai Hind! I'm a Techie on a Mission
-
-Welcome to my GitHub! I'm an engineering student with a deep passion for **national service** through **technology and innovation**.
-
-## 🎯 My Vision
-
-To contribute to India's technological backbone by working with premier institutions like:
-
-- 🔬 **BARC** – securing nuclear research and digital systems through advanced cyber defense
-- 🚀 **DRDO** – developing cyber warfare and cyber defense tools to protect strategic assets
-- 🛰️ **ISRO** – ensuring the cybersecurity of satellite communications and space infrastructure
-- 🕵️ **IB** – strengthening internal security with cyber intelligence and digital surveillance systems
-
- I aim to work in **cybersecurity domains** of these organizations to **defend and develop India** using cutting-edge technology. 🇮🇳
-
-🚨 Currently preparing for the GATE exam with full dedication 🇮🇳 — a key milestone toward my dream of serving the nation through technology. My preparation is focused on cybersecurity, computer networks, algorithms, and system design.
-
-## 🔐 My Project for the Nation
-
-I developed a project titled **"Web-based-Application-on-File-and-Text-Encryption"** – a web-based encryption tool using **AES-256** and classical ciphers. It was built with a vision to **support secure communication** and **data protection** for defense personnel.
-
-> It’s more than a project — it’s my dedication to the Indian Army and my dream of serving the nation.
-
-## 💡 Skills & Interests
-
-- 🧠 Cryptography & Cybersecurity
-- 💻 Web Development (HTML, CSS, JavaScript)
-- ⚙️ Algorithms & Data Structures
-- 🎓 GATE & Research-Oriented Learning
-- 🛡️ Defense-Tech, Secure Communication, Intelligence Tools
-
-## 🚀 Ongoing Goals
-
-- Crack **GATE** with top rank
-- Join **DRDO**, **BARC**, or **IB** as a scientist or engineer
-- Continue building impactful, security-focused tech
-- Serve the **nation through engineering excellence**
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png)](https://tryhackme.com/p/sathwikbuddhe)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwikbuddhe/)
+[![Gmail](https://img.shields.io/badge/Email-varmasathwik7@gmail.com-red?logo=gmail&logoColor=white)](mailto:varmasathwik7@gmail.com)
 
 ---
 
-📬 **Connect With Me:**
-
-- Email: [varmasathwik7@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/sathwik-buddhe-090107258/]
-- GitHub: [github.com/sathwikvarmaa]
-
-🇮🇳 *"Service to the nation through science and technology is my ultimate goal."*
+🎓 **Engineering Student** | 🔐 **Cybersecurity Enthusiast** | 🛡️ **Nation-First Technologist**  
+Preparing for **GATE** to serve in **DRDO**, **ISRO**, **BARC**, or **IB** as a cyber defense expert.
 
 ---
 
+## 🚀 Mission: Serve the Nation Through Tech
 
-<!---
-sathwikvarmaa/sathwikvarmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛰️ Dream: Strengthen India's defense tech and cybersecurity across:
+- **DRDO** – Cyber warfare & defense tools
+- **BARC** – Nuclear & digital systems security
+- **ISRO** – Satellite and communication protection
+- **IB** – Digital surveillance & cyber intelligence
+
+---
+
+## 🔐 Project: Encryption Web App
+
+🛡️ Developed a web-based tool for **File & Text Encryption**  
+Built using: `AES-256`, `Hill`, `Playfair`, `Vigenère`, `Vernam` ciphers  
+🎯 Purpose: **Secure communication for defense and intelligence**
+
+> “More than a project — it’s a dedication to the Indian Army and national security.”
+
+---
+
+## 💡 Skills & Focus Areas
+
+- 🔐 **Cryptography & Cybersecurity**
+- 💻 **HTML, CSS, JavaScript**
+- 📡 **Computer Networks & Protocols**
+- 📚 **GATE: Algorithms, CN, System Design**
+- 🛠️ **Defense-Tech & Intelligence Tools**
+
+---
+
+## 🎯 Current Goals
+
+- Crack **GATE** with a top rank  
+- Join premier orgs like **DRDO**, **BARC**, or **IB**  
+- Build secure, scalable tech for national interest  
+- Keep learning, building, and serving 🇮🇳
+
+---
+
+📫 **Let’s Connect**  
+Feel free to reach out for collaboration, learning, or ideas to defend India through tech.
+
