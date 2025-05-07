@@ -1,3 +1,7 @@
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4693732" style='border:none;'></iframe>
+
+
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
 
 Welcome to my GitHub! I'm an engineering student with a deep passion for **national service** through **technology and innovation**.
