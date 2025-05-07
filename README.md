@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="300"/>
 </a>
 <br>
-<a href="https://www.linkedin.com/in/sathwikbuddhe/">
-  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="200"/>
-</a>
+
 
 
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
