@@ -7,7 +7,7 @@
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sathwikbuddhe/">
-  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="200"/>
 </a>
 
 
