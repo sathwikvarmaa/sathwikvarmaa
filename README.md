@@ -4,8 +4,6 @@
 
 # 🇮🇳 Jai Hind! I'm Sathwik – Techie on a Mission
 
-![India Flag](https://img.shields.io/badge/🇮🇳-India-0078D4?style=flat&logo=flag)
-
 Engineering student passionate about **technology & national service**. Preparing for **GATE** with a focus on **cybersecurity** and **computer networks**.
 
 ## 🎯 My Vision  
