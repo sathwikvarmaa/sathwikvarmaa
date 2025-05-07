@@ -1,3 +1,4 @@
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4693732.png)
 
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
 
