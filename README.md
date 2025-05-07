@@ -1,5 +1,5 @@
 <a href="https://tryhackme.com/p/sathwikbuddhe">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="TryHackMe" width="450"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="TryHackMe" width="350"/>
 </a>
 <br>
 <a href="https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design">
