@@ -1,5 +1,10 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png)](https://tryhackme.com/p/sathwikbuddhe)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design)
+<a href="https://tryhackme.com/p/sathwikbuddhe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="TryHackMe" width="300"/>
+</a>
+<br>
+<a href="https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design">
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="300"/>
+</a>
 
 
 # 🇮🇳 Jai Hind! I'm a Techie on a Mission
