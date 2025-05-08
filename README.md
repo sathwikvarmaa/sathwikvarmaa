@@ -1,6 +1,6 @@
 
 <a href="https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design">
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="300"/>
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="200"/>
 </a>
 
 
