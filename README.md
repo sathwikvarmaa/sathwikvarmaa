@@ -1,4 +1,4 @@
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue?logo=tryhackme)](https://tryhackme.com/p/4693732)  
+![My TryHackMe Badge](./assets/tryhackme-badge.png)  
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design)  
 
 # 🇮🇳 Jai Hind! I'm Sathwik – Techie on a Mission
