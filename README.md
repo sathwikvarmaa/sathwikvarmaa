@@ -27,7 +27,6 @@ Developed a tool using **AES-256** and classical ciphers for **secure communicat
 - Join **DRDO**, **BARC**, or **IB**  
 - Serve the nation through **engineering excellence**
 
-🇮🇳 *"Service to the nation through science and technology is my ultimate goal."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwikbuddhe/)  
 [![Gmail](https://img.shields.io/badge/Email-varmasathwik7@gmail.com-red?logo=gmail&logoColor=white)](mailto:varmasathwik7@gmail.com)  
