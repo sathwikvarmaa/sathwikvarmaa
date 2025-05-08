@@ -1,5 +1,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="Your Image Badge" />  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design)  
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design)
+
 
 # 🇮🇳 Jai Hind! I'm Sathwik – Techie on a Mission
 
