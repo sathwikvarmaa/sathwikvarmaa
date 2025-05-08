@@ -1,8 +1,4 @@
-## 🏅 Certifications
-<a href="https://tryhackme.com/p/sathwikbuddhe">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/sathwikbuddhe.png" alt="TryHackMe" width="300"/>
-</a>
-<br>
+
 <a href="https://www.freecodecamp.org/certification/sathwik_buddhe/responsive-web-design">
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?logo=freecodecamp" alt="freeCodeCamp" width="300"/>
 </a>
