@@ -6,7 +6,7 @@
 
 
 
-# 🇮🇳 Jai Hind! I'm Sathwik – Techie on a Mission
+#  Jai Hind! I'm Sathwik – Techie on a Mission
 
 Engineering student passionate about **technology & national service**. Preparing for **GATE** with a focus on **cybersecurity** and **computer networks**.
 
