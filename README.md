@@ -4,27 +4,8 @@
 </a>
 
 
-
-
-#  Jai Hind! I'm Sathwik – Techie on a Mission
-
-Engineering student passionate about **technology & national service**. Preparing for **GATE** with a focus on **cybersecurity** and **computer networks**.
-
-## 🎯 My Vision  
-To contribute to India's technological advancements through **DRDO**, **BARC**, **ISRO**, and **IB** in **cybersecurity** and **defense tech**.
-
-## 🔐 Project: Web-based Encryption  
-Developed a tool using **AES-256** and classical ciphers for **secure communication** and **data protection** aimed at defense personnel.
-
-## 💡 Skills & Interests  
-- **Cryptography & Cybersecurity**  
-- **Web Development** (HTML, CSS, JavaScript)  
-- **Algorithms & Data Structures**  
-- **Defense-Tech & Intelligence Tools**
-
 ## 🚀 Ongoing Goals  
-- Crack **GATE**  
-- Join **DRDO**, **BARC**, or **IB**  
+- Crack **GATE**   
 - Serve the nation through **engineering excellence**
 
 
