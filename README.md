@@ -5,9 +5,10 @@
 
 
 ## 🚀 Ongoing Goals  
-- Crack **GATE**   
-- Serve the nation through **engineering excellence**
+Developing hands-on projects in network security & cryptography
+Exploring penetration testing and secure system design
+Improving problem solving and core CS fundamentals
+Preparing for cybersecurity and research roles
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwikbuddhe/)  
 [![Gmail](https://img.shields.io/badge/Email-varmasathwik7@gmail.com-red?logo=gmail&logoColor=white)](mailto:varmasathwik7@gmail.com)  
