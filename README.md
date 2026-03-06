@@ -41,4 +41,7 @@
 ---
 
 ## 📫 Contact
+
 [![Gmail](https://img.shields.io/badge/Email-varmasathwik7@gmail.com-red?logo=gmail&logoColor=white)](mailto:varmasathwik7@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathwik_Buddhe-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-buddhe-5152053b0/)
