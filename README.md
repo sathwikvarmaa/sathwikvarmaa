@@ -39,9 +39,12 @@
 - Building **practical security tools and real-world cybersecurity projects**
 
 ---
-
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:varmasathwik7@gmail.com)
+<a href="mailto:varmasathwik7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white" height="40">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-buddhe-5152053b0/)
+<a href="https://www.linkedin.com/in/sathwik-buddhe-5152053b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" height="40">
+</a>
